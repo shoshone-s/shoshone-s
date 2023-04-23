@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src='imgs/https://github.com/shoshone-s/shoshone-s/raw/main/octocat.png' alt='octocat' width='250' height='250'>
+<img src='https://github.com/shoshone-s/shoshone-s/raw/main/imgs/octocat.png' alt='octocat' width='250' height='250'>
 
 <!--
 **shoshone-s/shoshone-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
