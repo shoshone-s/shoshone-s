@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+!octocat(https://github.com/shoshone-s/shoshone-s/blob/main/octocat.png)
+
 <!--
 **shoshone-s/shoshone-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
